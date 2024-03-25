@@ -6,7 +6,7 @@ My name is Ioana, and I'm an Machine Learning and Computational Neuroscience sci
   
 - 🌱 I recently used agent-based modelling to model a stock market according to Lux-Marchesi price and contagion dynamics.
 
-- I built user-free algorithm, that precisely localizes neurites across cortical layers in 3-D data sets [code](https://github.com/iocalangiu/trace-3d) and [paper](https://pubmed.ncbi.nlm.nih.gov/30044974/).
+- During my masters at Imperial College London I built an user-free algorithm that precisely localizes neurites across cortical layers in 3-D data sets [code](https://github.com/iocalangiu/trace-3d) and [paper](https://pubmed.ncbi.nlm.nih.gov/30044974/).
 
 <!--
 **iocalangiu/iocalangiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
