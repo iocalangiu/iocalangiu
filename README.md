@@ -2,8 +2,8 @@
 
 My name is Ioana, and I'm an Machine Learning and Computational Neuroscience scientist interested in inferring structure from high-d data!
 
-- 🔭 I’m currently working on describing and modelling signals in the [prefrontal cortex](https://www.biorxiv.org/content/10.1101/2022.09.26.509463v2).
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on describing and modelling signals in the prefrontal cortex using high-d decoders and recurrent neural networks [here](https://www.biorxiv.org/content/10.1101/2022.09.26.509463v2).
+- 🌱 I recently used agent-based modelling to model a stock market according to Lux-Marchesi price and contagion dynamics.
 - 👯 I’m looking to collaborate on ...
 
 <!--
