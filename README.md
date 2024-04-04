@@ -4,7 +4,7 @@ My name is Ioana, and I'm an Machine Learning and Computational Neuroscience sci
 
 - 🔭 I’m currently working on describing and modelling signals in the prefrontal cortex using high-dimensional decoders and recurrent neural networks [here](https://www.biorxiv.org/content/10.1101/2022.09.26.509463v2).
 
-- 🌱 I developed a neural decoder to drive prosthetic devices using Kalman filtering [here](https://github.com/iocalangiu/kalman-filtering)
+- 🦾 I developed a neural decoder to drive prosthetic devices using Kalman filtering [here](https://github.com/iocalangiu/kalman-filtering)
 
 - 🎓 During my Master's at Imperial College London I built an user-free algorithm that precisely localizes neurites across cortical layers in 3-D data sets [code](https://github.com/iocalangiu/trace-3d) and [paper](https://pubmed.ncbi.nlm.nih.gov/30044974/).
 
