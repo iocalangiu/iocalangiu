@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I recently used agent-based modelling to model a stock market according to Lux-Marchesi model of price and contagion dynamics.
+
 -->
 
-- 🌱 I recently used agent-based modelling to model a stock market according to Lux-Marchesi model of price and contagion dynamics.
 
