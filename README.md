@@ -2,7 +2,7 @@
 
 My name is Ioana, and I'm an Machine Learning and Computational Neuroscience scientist interested in inferring structure from high-dimensional data!
 
-- 🔭 I’m currently working on describing and modelling signals in the prefrontal cortex using high-dimensional decoders and recurrent neural networks [here](https://www.biorxiv.org/content/10.1101/2022.09.26.509463v2).
+- 🔭 During my PhD I worked on describing and modelling signals in the prefrontal cortex using high-dimensional decoders and recurrent neural networks [here](https://www.cell.com/cell-reports/fulltext/S2211-1247(25)00060-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS2211124725000609%3Fshowall%3Dtrue).
 
 - 🦾 I developed a neural decoder to drive prosthetic devices using Kalman filtering [here](https://github.com/iocalangiu/kalman-filtering)
 
